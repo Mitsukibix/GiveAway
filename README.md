@@ -9,7 +9,8 @@ Dosya'nın içine Bunları Yazın
 - CLIENT_ID=
 - ADMIN_ROLE_ID=
 - LOG_CHANNEL_ID=
-Yazdıktan Sonra Doldurun Dolduruktan Sonra Farklı kaydet Diyip ismini .env.env yapın Bu ismi koyarken Altında Text Yerine Tüm Dosyaları Seçin
+
+-Yazdıktan Sonra Doldurun Dolduruktan Sonra Farklı kaydet Diyip ismini ".env.env" yapın. Kayıt Türünüde "Tüm Dosyalar" Olacak Çekilde Ayarlayın
 
 - kurulum.bat'ı Çalıştırın Kurum Bittiğinde
 - Başlat.bat'ı Çalıştırın
